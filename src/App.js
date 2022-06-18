@@ -9,7 +9,7 @@ import {Ecommerce, Employees, Calendar, ColorPicker, Customers, Editor, Orders, 
 import './App.css';
 
 const App = () => {
-  const activeMenu = false;
+  const activeMenu = true;
   return (
     <div>
       <BrowserRouter>
